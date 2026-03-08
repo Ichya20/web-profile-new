@@ -142,8 +142,6 @@ const App: React.FC = () => {
               </a>
               <Link 
                 to="/blog"
-                target="_blank"
-                rel="noopener noreferrer"
                 className="px-10 py-5 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 text-white font-black tracking-wider uppercase text-xs transition-all hover:scale-105 backdrop-blur-md active:scale-95"
               >
                 BLOG
